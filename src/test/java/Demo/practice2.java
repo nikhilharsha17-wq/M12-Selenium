@@ -8,5 +8,6 @@ public class practice2 {
 		System.out.println("branch github");
 		System.out.println("branch ");
 		System.out.println("from ate");
+		
 	}
 }
