@@ -5,6 +5,6 @@ public class practice2 {
 	public static void main (String[] args) {
 		System.out.println("changes to github");
 		System.out.println("github has to change");
-		System.out.println("FE ");
+		System.out.println("From Fw ");
 	}
 }
